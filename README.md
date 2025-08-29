@@ -17,8 +17,8 @@
 
 <!-- Profile Views Counter with animations -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ddev16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ddev16.ddev16" alt="Visitors Badge" />
+  <img src="https://komarev.com/ghpvc/?username=devmarc16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=devmarc16.devmarc16" alt="Visitors Badge" />
 </div>
 
 <!-- Socials -->
@@ -26,7 +26,7 @@
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/DDev16" target="_blank">
+  <a href="https://github.com/devmarc16" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:your.email@gmail.com">
@@ -47,7 +47,7 @@ current_project: BlockWork Blockchain Freelancing Platform
 learning: [React.js, Next.js, Solidity, Web3.js, Ether.js]
 collaborating_on: BlockWork - https://Block-work.vercel.app
 looking_for_help_with: BlockWork Development
-portfolio: All projects available at DDev16 Repositories
+portfolio: All projects available at devmarc16 Repositories
 expertise: Blockchain Development, Smart Contracts, DeFi
 fun_fact: Outdoor enthusiast & Melodic Dubstep lover
 ```
@@ -139,26 +139,26 @@ fun_fact: Outdoor enthusiast & Melodic Dubstep lover
 <!-- GitHub Stats with Animations -->
 <div align="center">
   <h2>🔥 GitHub Stats</h2>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ddev16&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="DevD's Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddev16&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devmarc16&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="DevD's Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmarc16&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <!-- GitHub Streak Stats -->
 <div align="center">
   <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddev16&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmarc16&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 <!-- Contribution Graph -->
 <div align="center">
   <h2>📈 Contribution Graph</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddev16&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmarc16&theme=radical" />
 </div>
 
 <!-- Trophy Display -->
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=ddev16&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devmarc16&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" />
 </div>
 
 <!-- Skill Progress Bars -->
@@ -206,7 +206,7 @@ Go               ███████████████░░░░░   
 <!-- Contribution Snake -->
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
-  <img src="https://github.com/DDev16/DDev16/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/devmarc16/devmarc16/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <!-- Spotify Integration -->
