@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center" style="color: #6c757d;">
-  I am a dedicated blockchain enthusiast and a highly experienced full-stack developer committed to advancing innovative blockchain applications. Over the past five years, I have diligently pursued self-directed learning, refining my skills in this dynamic field. A substantial portion of my code contributions are developed using ChatGPT 3, 3.5, 4, ChatGPT-4o, and now Claude 3.5 and now claude 3.7 Sonnet with extensive reasoning ( Best AI coder at the moment) which is significantly better that gpt 4o, showcasing my proficiency in leveraging cutting-edge technologies to drive blockchain innovation. My unwavering dedication and expertise empower me to craft groundbreaking blockchain solutions that consistently challenge and redefine the limits of prior achievements..
+I am a dedicated blockchain enthusiast and highly experienced full-stack developer committed to advancing innovative blockchain applications. Over the past five years, I have diligently pursued continuous learning and skill refinement in this dynamic field. My expertise spans the full development stack, with a focus on implementing cutting-edge technologies to drive blockchain innovation. I specialize in crafting groundbreaking blockchain solutions that consistently challenge and redefine industry standards. My unwavering dedication to staying at the forefront of blockchain technology enables me to deliver robust, scalable applications that push the boundaries of what's possible in decentralized systems.
 </h3>
 
 <!-- Animated Coding GIF -->
