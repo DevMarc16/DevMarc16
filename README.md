@@ -397,8 +397,9 @@ Neural Networks      ███████████████░░░░�
 |---------|-------------|------------|--------|
 | [BlockWork](https://block-worklabs.vercel.app/) | Blockchain Freelancing Platform | React, Solidity, IPFS, Web3 | 🚀 Live |
 | [Xelarate Bridge](https://xelarate.vercel.app/) | XRPL to XRP EVM cross-chain bridge | XRPL, XRP EVM, Solidity, Web3.js | 🚀 Live |
-| [DeFiBull](https://defibull.world/) | DeFi Education Platform | React, Web3, Educational Content | 🚀 Live |
-| DeFi Yield Aggregator | Multi-protocol yield optimization | Hardhat, TypeScript, Chainlink | 🔧 Development |
+| [AI Smart Contract Auditor](https://comet-opick-demo.vercel.app/) | AI-powered smart contract security auditor | OpenAI, Opik, React, Solidity Analysis | 🚀 Live |
+| [DeFiBull](https://defibullworld.com) | DeFi Education Platform | React, Web3, Educational Content | 🚀 Live |
+| [Quantum Blockchain](https://github.com/DevMarc16/Quantum-Proof-Blockchain) | Quantum-resistant blockchain protocol | Quantum Cryptography, Node.js, Python | ✅ Completed |
 
 </div>
 
