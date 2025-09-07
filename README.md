@@ -32,8 +32,8 @@ Passionate blockchain architect and full-stack developer with 5+ years of experi
   <a href="mailto:dillondevera12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://discord.com/users/codiusmaximus.web3" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discordapp.com/users/codiusmaximus.web3" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-codiusmaximus.web3-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
