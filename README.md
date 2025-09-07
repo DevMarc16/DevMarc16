@@ -399,6 +399,7 @@ Neural Networks      ███████████████░░░░�
 | [BlockWork](https://block-worklabs.vercel.app/) | Blockchain Freelancing Platform | React, Solidity, IPFS, Web3 | 🚀 Live |
 | [Xelarate Bridge](https://xelarate.vercel.app/) | XRPL to XRP EVM cross-chain bridge | XRPL, XRP EVM, Solidity, Web3.js | 🚀 Live |
 | [AI Smart Contract Auditor](https://comet-opick-demo.vercel.app/) | AI-powered smart contract security auditor | OpenAI, Opik, React, Solidity Analysis | 🚀 Live |
+| [MentraOS](https://github.com/Mentra-Community/MentraOS) | Smart glasses OS software (Contributor) | AI, AR/VR, OS Development, Wearable Tech | 🤝 Contributing |
 | [DeFiBull](https://defibullworld.com) | DeFi Education Platform | React, Web3, Educational Content | 🚀 Live |
 | [Quantum Blockchain](https://github.com/DevMarc16/Quantum-Proof-Blockchain) | Quantum-resistant blockchain protocol | Quantum Cryptography, Node.js, Python | ✅ Completed |
 
