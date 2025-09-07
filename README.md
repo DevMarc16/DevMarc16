@@ -48,7 +48,7 @@ Passionate blockchain architect and full-stack developer with 5+ years of experi
 ```yaml
 current_project: BlockWork - Blockchain Freelancing Platform
 learning: [Rust, Move, Cairo, Advanced DeFi Protocols]
-collaborating_on: BlockWork - https://Block-work.vercel.app
+collaborating_on: BlockWork - https://block-worklabs.vercel.app/
 expertise: 
   - Smart Contract Architecture & Security Auditing
   - DeFi Protocol Development
@@ -99,6 +99,7 @@ achievements: [10M+ TVL Managed, 50+ Smart Contracts Deployed]
     <img src="https://img.shields.io/badge/XRPL-00AAE4?style=for-the-badge&logo=xrp&logoColor=white"/>
     <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
     <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Reown-000000?style=for-the-badge&logo=reown&logoColor=white"/>
     <img src="https://img.shields.io/badge/Uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Compound-00D395?style=for-the-badge&logo=compound&logoColor=white"/>
     <img src="https://img.shields.io/badge/Aave-B6509E?style=for-the-badge&logo=aave&logoColor=white"/>
@@ -394,10 +395,10 @@ Neural Networks      ███████████████░░░░�
   
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [BlockWork](https://Block-work.vercel.app) | Blockchain Freelancing Platform | React, Solidity, IPFS, Web3 | 🚀 Live |
+| [BlockWork](https://block-worklabs.vercel.app/) | Blockchain Freelancing Platform | React, Solidity, IPFS, Web3 | 🚀 Live |
+| [Xelarate Bridge](https://xelarate.vercel.app/) | XRPL to XRP EVM cross-chain bridge | XRPL, XRP EVM, Solidity, Web3.js | 🚀 Live |
+| [DeFiBull](https://defibull.world/) | DeFi Education Platform | React, Web3, Educational Content | 🚀 Live |
 | DeFi Yield Aggregator | Multi-protocol yield optimization | Hardhat, TypeScript, Chainlink | 🔧 Development |
-| NFT Marketplace | Gas-optimized trading platform | Next.js, Polygon, TheGraph | ✅ Completed |
-| Cross-Chain Bridge | Asset transfer protocol | Rust, Cosmos SDK, IBC | 📋 Planning |
 
 </div>
 
