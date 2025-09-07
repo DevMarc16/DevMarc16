@@ -411,12 +411,12 @@ Neural Networks      ███████████████░░░░�
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
+
 <!-- Contribution Snake -->
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
-  <img src="https://github.com/devmarc16/devmarc16/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/DevMarc16/DevMarc16/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
 
 <!-- Dynamic Dev Metrics -->
 <div align="center">
